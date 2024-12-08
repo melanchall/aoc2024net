@@ -10,3 +10,4 @@
 |2|[Red-Nosed Reports](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day2.cs)|:star::star:|
 |3|[Mull It Over](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day3.cs)|:star::star:|
 |4|[Ceres Search](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day4.cs)|:star::star:|
+|5|[Print Queue](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day5.cs)|:star::star:|
