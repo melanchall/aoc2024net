@@ -7,3 +7,4 @@
 |Day|Solution|Stars|
 |--|--|--|
 |1|[Historian Hysteria](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day1.cs)|:star::star:|
+|2|[Red-Nosed Reports](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day2.cs)|:star::star:|
