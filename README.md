@@ -12,3 +12,5 @@
 |4|[Ceres Search](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day4.cs)|:star::star:|
 |5|[Print Queue](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day5.cs)|:star::star:|
 |6|[Guard Gallivant](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day6.cs)|:star::star:|
+|7|[Bridge Repair](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day7.cs)|:star::star:|
+|8|[Resonant Collinearity](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day8.cs)|:star::star:|
