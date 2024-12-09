@@ -52,7 +52,7 @@ namespace Aoc2024Net
             var gridHeight = height + margin * 2;
             var grid = new T[gridWidth, gridHeight];
 
-            void ForEachCoordinate(int width, int height, Action<(int X, int Y)> action) =>
+            void ForEachCoordinate(int width, int height, Action<Coordinate> action) =>
                 DataProvider.GetGridCoordinates(width, height).ToList().ForEach(action);
 
             ForEachCoordinate(gridWidth, gridHeight, p => grid[p.X, p.Y] = fillValue);

@@ -2,7 +2,7 @@
 {
     internal static class GridUtilities
     {
-        public static IEnumerable<(int X, int Y)> GetAllCoordinates<T>(this T[,] grid) =>
+        public static IEnumerable<Coordinate> GetAllCoordinates<T>(this T[,] grid) =>
             DataProvider.GetGridCoordinates(grid.GetLength(0), grid.GetLength(1));
 
         public static T GetGridSymbolType<T>(this char symbol) where T : Enum =>  ReflectionUtilities
@@ -26,5 +26,14 @@
 
             return (newGrid, newGrid.GetLength(0), newGrid.GetLength(1));
         }
+
+        public static T At<T>(this T[,] grid, Coordinate coordinate) =>
+            grid[coordinate.X, coordinate.Y];
+
+        public static void SetAt<T>(this T[,] grid, Coordinate coordinate, T value) =>
+            grid[coordinate.X, coordinate.Y] = value;
+
+        public static bool IsInGrid<T>(this T[,] grid, int width, int height, Coordinate coordinate) =>
+            coordinate.X >= 0 && coordinate.X < width && coordinate.Y >= 0 && coordinate.Y < height;
     }
 }
