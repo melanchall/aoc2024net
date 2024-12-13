@@ -56,7 +56,7 @@ namespace Aoc2024Net
                 DataProvider.GetGridCoordinates(width, height).ToList().ForEach(action);
 
             ForEachCoordinate(gridWidth, gridHeight, p => grid[p.X, p.Y] = fillValue);
-            ForEachCoordinate(width, height, p => grid[p.X + margin, p.Y + margin] = convert(lines[p.Y][p.X]));
+            ForEachCoordinate(width, height, p => grid[p.X + margin, p.Y + margin] = convert(lines[p.Y][(int)p.X]));
 
             return (grid, width, height);
         }
