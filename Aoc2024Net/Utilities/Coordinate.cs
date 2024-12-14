@@ -7,5 +7,8 @@
 
         public static Coordinate operator *(Coordinate a, long factor) =>
             new Coordinate(a.X * factor, a.Y * factor);
+
+        public override string ToString() =>
+            $"{X} {Y}";
     }
 }
