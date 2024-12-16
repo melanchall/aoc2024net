@@ -21,3 +21,4 @@
 |13|[Claw Contraption](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day13.cs)|:star::star:|
 |14|[Restroom Redoubt](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day14.cs)|:star::star:|
 |15|[Warehouse Woes](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day15.cs)|:star::star:|
+|16|[Reindeer Maze](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day16.cs)|:star::star:|
