@@ -22,5 +22,6 @@
 |14|[Restroom Redoubt](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day14.cs)|:star::star:|
 |15|[Warehouse Woes](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day15.cs)|:star::star:|
 |16|[Reindeer Maze](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day16.cs)|:star::star:|
-|17|Chronospatial Computer|--|
+|17|[Chronospatial Computer](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day17.cs)|:star:|
 |18|[RAM Run](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day18.cs)|:star::star:|
+|19|[Linen Layout](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day19.cs)|:star::star:|
