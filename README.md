@@ -25,3 +25,4 @@
 |17|[Chronospatial Computer](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day17.cs)|:star:|
 |18|[RAM Run](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day18.cs)|:star::star:|
 |19|[Linen Layout](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day19.cs)|:star::star:|
+|20|[Race Condition](https://github.com/melanchall/aoc2024net/blob/main/Aoc2024Net/Days/Day20.cs)|:star:|
